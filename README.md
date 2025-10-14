@@ -1,0 +1,1 @@
+# Velocity-Adaptive-Access-Scheme-for-Semantic-Aware-Vehicular-Networks-Joint-Fairness-and-AoI
